@@ -1,6 +1,6 @@
 'use client'
 
-import Profile from '@components/profile';
+import Profile from '@components/Profile';
 
 import { useState, useEffect } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation';
